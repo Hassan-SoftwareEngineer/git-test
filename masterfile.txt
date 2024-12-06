@@ -5,3 +5,6 @@ fourth line in masterFile.txt
 fifth line in masterFile.txt 
 sixth line in masterFile.txt 
 seven line in masterFile.txt 
+Eight line in masterFile.txt 
+Nine line in masterFile.txt 
+Tenth line in masterFile.txt 
