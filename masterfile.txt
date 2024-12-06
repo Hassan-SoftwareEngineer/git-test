@@ -1,1 +1,2 @@
 Hello from master branch
+first line in masterFile.txt
