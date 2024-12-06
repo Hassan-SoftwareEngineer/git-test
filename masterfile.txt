@@ -1,3 +1,4 @@
 Hello from master branch
 first line in masterFile.txt
 second line in masterFile.txt 
+third line in masterFile.txt 
